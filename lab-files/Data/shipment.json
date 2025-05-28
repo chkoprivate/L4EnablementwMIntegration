@@ -1,0 +1,35 @@
+{
+  "Shipment": {
+    "OrderID": "021213153012A",
+    "TransactionID": "021213153012A",
+    "ShippingDate": "August 02, 2013",
+    "Status": "shipped",
+    "ShipTo": {
+      "customerID": "2",
+      "first-name": "James",
+      "last-name": "Butt",
+      "company-name": "Benton, John B Jr",
+      "address": {
+        "street": "6649 N Blue Gum St",
+        "city": "New Orleans",
+        "state": "Orleans",
+        "country": "US",
+        "zip": "70116"
+      }
+    }
+  },
+  "Items": [
+    {
+      "SKU": "CHAINSAW",
+      "Quantity": 150
+    },
+    {
+      "SKU": "TIME MACHINE",
+      "Quantity": 163
+    },
+    {
+      "SKU": "SLEDGEHAMMER",
+      "Quantity": 120
+    }
+  ]
+}

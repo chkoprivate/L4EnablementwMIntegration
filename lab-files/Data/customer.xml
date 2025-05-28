@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <Customer>
+      <id>1</id>
+      <first-name>James</first-name>
+      <last-name>Butt</last-name>
+      <company-name>Benton, John B Jr</company-name>
+      <address>
+         <street>6649 N Blue Gum St</street>
+         <city>New Orleans</city>
+         <state>Orleans</state>
+         <country>US</country>
+         <zip>70116</zip>
+         <phone>504-621-8927</phone>
+         <email>jbutt@gmail.com</email>
+         <web>http://www.bentonjohnbjr.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>2</id>
+      <first-name>Josephine</first-name>
+      <last-name>Darakjy</last-name>
+      <company-name>Chanay, Jeffrey A Esq</company-name>
+      <address>
+         <street>4 B Blue Ridge Blvd</street>
+         <city>Brighton</city>
+         <state>Livingston</state>
+         <country>US</country>
+         <zip>48116</zip>
+         <phone>810-292-9388</phone>
+         <email>josephine_darakjy@darakjy.org</email>
+         <web>http://www.chanayjeffreyaesq.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>3</id>
+      <first-name>Art</first-name>
+      <last-name>Venere</last-name>
+      <company-name>Chemel, James L Cpa</company-name>
+      <address>
+         <street>8 W Cerritos Ave #54</street>
+         <city>Bridgeport</city>
+         <state>Gloucester</state>
+         <country>US</country>
+         <zip>8014</zip>
+         <phone>856-636-8749</phone>
+         <email>art@venere.org</email>
+         <web>http://www.chemeljameslcpa.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>4</id>
+      <first-name>Lenna</first-name>
+      <last-name>Paprocki</last-name>
+      <company-name>Feltz Printing Service</company-name>
+      <address>
+         <street>639 Main St</street>
+         <city>Anchorage</city>
+         <state>Anchorage</state>
+         <country>US</country>
+         <zip>99501</zip>
+         <phone>907-385-4412</phone>
+         <email>lpaprocki@hotmail.com</email>
+         <web>http://www.feltzprintingservice.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>5</id>
+      <first-name>Donette</first-name>
+      <last-name>Foller</last-name>
+      <company-name>Printing Dimensions</company-name>
+      <address>
+         <street>34 Center St</street>
+         <city>Hamilton</city>
+         <state>Butler</state>
+         <country>US</country>
+         <zip>45011</zip>
+         <phone>513-570-1893</phone>
+         <email>donette.foller@cox.net</email>
+         <web>http://www.printingdimensions.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>6</id>
+      <first-name>Simona</first-name>
+      <last-name>Morasca</last-name>
+      <company-name>Chapman, Ross E Esq</company-name>
+      <address>
+         <street>3 Mcauley Dr</street>
+         <city>Ashland</city>
+         <state>Ashland</state>
+         <country>US</country>
+         <zip>44805</zip>
+         <phone>419-503-2484</phone>
+         <email>simona@morasca.com</email>
+         <web>http://www.chapmanrosseesq.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>7</id>
+      <first-name>Mitsue</first-name>
+      <last-name>Tollner</last-name>
+      <company-name>Morlong Associates</company-name>
+      <address>
+         <street>7 Eads St</street>
+         <city>Chicago</city>
+         <state>Cook</state>
+         <country>US</country>
+         <zip>60632</zip>
+         <phone>773-573-6914</phone>
+         <email>mitsue_tollner@yahoo.com</email>
+         <web>http://www.morlongassociates.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>8</id>
+      <first-name>Leota</first-name>
+      <last-name>Dilliard</last-name>
+      <company-name>Commercial Press</company-name>
+      <address>
+         <street>7 W Jackson Blvd</street>
+         <city>San Jose</city>
+         <state>Santa Clara</state>
+         <country>US</country>
+         <zip>95111</zip>
+         <phone>408-752-3500</phone>
+         <email>leota@hotmail.com</email>
+         <web>http://www.commercialpress.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>9</id>
+      <first-name>Sage</first-name>
+      <last-name>Wieser</last-name>
+      <company-name>Truhlar And Truhlar Attys</company-name>
+      <address>
+         <street>5 Boston Ave #88</street>
+         <city>Sioux Falls</city>
+         <state>Minnehaha</state>
+         <country>US</country>
+         <zip>57105</zip>
+         <phone>605-414-2147</phone>
+         <email>sage_wieser@cox.net</email>
+         <web>http://www.truhlarandtruhlarattys.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>10</id>
+      <first-name>Kris</first-name>
+      <last-name>Marrier</last-name>
+      <company-name>King, Christopher A Esq</company-name>
+      <address>
+         <street>228 Runamuck Pl #2808</street>
+         <city>Baltimore</city>
+         <state>Baltimore City</state>
+         <country>US</country>
+         <zip>21224</zip>
+         <phone>410-655-8723</phone>
+         <email>kris@gmail.com</email>
+         <web>http://www.kingchristopheraesq.com</web>
+      </address>
+   </Customer>
+   <Customer>
+      <id>11</id>
+      <first-name>Jens</first-name>
+      <last-name>Maier</last-name>
+      <company-name>Deutsche Bank</company-name>
+      <address>
+         <street>Tannenweg 12</street>
+         <city>Berlin</city>
+         <state>Brandenburg</state>
+         <country>DE</country>
+         <zip>21224</zip>
+         <phone>410-655-8723</phone>
+         <email>j.maier@gmail.com</email>
+         <web>http://www.deutschebank.de</web>
+      </address>
+   </Customer>
+      <Customer>
+      <id>12</id>
+      <first-name>Piedro</first-name>
+      <last-name>Gonzales</last-name>
+	<company-name>Santander</company-name>
+      <address>
+         <street>Gran Cardinale 12</street>
+         <city>Barcelona</city>
+         <state>Catalania</state>
+         <country>ES</country>
+         <zip>21224</zip>
+         <phone>415-655-8723</phone>
+         <email>pedro@gmail.com</email>
+         <web>http://www.santander.com</web>
+      </address>
+   </Customer>
+</document>

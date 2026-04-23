@@ -3,12 +3,11 @@
 # Data
 Contains JSON and XML files related to customer, shipment, and order data.
 ## Folder Files
-    customer
-        customer.json
-    shipment
-        shipment.json
-    simpleOrder
-        simpleOrder.xml
+    customer.json
+    customer.xml
+    shipment.json
+    simpleOrder.xml
+    customerOpenAPI.yaml
     
 
 # Flow

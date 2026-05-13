@@ -1,0 +1,27 @@
+-- 06_seed_data.sql
+INSERT INTO public.customer (customer_id, first_name, last_name, company_name, address) VALUES
+(1, 'James', 'Butt', 'Benton, John B Jr',
+ '6649 N Blue Gum St, New Orleans, Orleans, US, 70116'),
+(2, 'Josephine', 'Darakjy', 'Chanay, Jeffrey A Esq',
+ '4 B Blue Ridge Blvd, Brighton, Livingston, US, 48116'),
+(3, 'Art', 'Venere', 'Chemel, James L Cpa',
+ '8 W Cerritos Ave #54, Bridgeport, Gloucester, US, 8014'),
+(4, 'Lenna', 'Paprocki', 'Feltz Printing Service',
+ '639 Main St, Anchorage, Anchorage, US, 99501'),
+(5, 'Donette', 'Foller', 'Printing Dimensions',
+ '34 Center St, Hamilton, Butler, US, 45011'),
+(6, 'Simona', 'Morasca', 'Chapman, Ross E Esq',
+ '3 Mcauley Dr, Ashland, Ashland, US, 44805'),
+(7, 'Mitsue', 'Tollner', 'Morlong Associates',
+ '7 Eads St, Chicago, Cook, US, 60632'),
+(8, 'Leota', 'Dilliard', 'Commercial Press',
+ '7 W Jackson Blvd, San Jose, Santa Clara, US, 95111'),
+(9, 'Sage', 'Wieser', 'Truhlar And Truhlar Attys',
+ '5 Boston Ave #88, Sioux Falls, Minnehaha, US, 57105'),
+(10, 'Kris', 'Marrier', 'King, Christopher A Esq',
+ '228 Runamuck Pl#2808, Baltimore, Baltimore City, US, 21224'),
+(11, 'Jens', 'Maier', 'Deutsche Bank',
+ 'Tannenweg 12, Berlin, Brandenburg, DE, 21224'),
+(12, 'Piedro', 'Gonzales', 'Santander',
+ 'Gran Cardinale 12, Barcelona, Catalania, ES, 21224')
+ON CONFLICT DO NOTHING;
